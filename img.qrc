@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>D:/File/Software_development/Design/Design/picture/hit.jpg</file>
+    </qresource>
+    <qresource prefix="/imagea">
+        <file>D:/File/Software_development/View/View/hit.jpg</file>
+    </qresource>
+</RCC>
